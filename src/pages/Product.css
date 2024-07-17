@@ -1,0 +1,24 @@
+/* src/pages/Product.css */
+.product-page {
+    padding: 2rem;
+  }
+  .gallery img {
+    width: 100px;
+    height: 100px;
+    margin: 0.5rem;
+  }
+  .sizes span {
+    display: inline-block;
+    margin-right: 1rem;
+  }
+  .reviews {
+    margin-top: 2rem;
+  }
+  .share-btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+  }
+  
